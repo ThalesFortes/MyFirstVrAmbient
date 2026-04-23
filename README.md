@@ -1,10 +1,5 @@
 # 🏢 Sala de Reuniões VR — Meu Primeiro Ambiente VR Interativo
 
-## 👤 Nome do Aluno
-Seu Nome Completo
-
----
-
 ## 📋 Apresentando o Projeto
 
 Este projeto consiste em uma **Sala de Reuniões em Realidade Virtual**, desenvolvida com Unity 6 e Meta XR SDK. O ambiente simula um espaço corporativo completo e navegável, onde o usuário pode explorar o espaço livremente e interagir com os elementos da cena.
@@ -90,22 +85,6 @@ Inicialmente a câmera atravessava paredes e objetos. Resolvi garantindo que o s
 
 **4. Posicionamento dos pontos de sentar**  
 Foi necessário ajustar manualmente os `PontoDeSentado` em cada cadeira para que o jogador ficasse na posição correta ao sentar, evitando que a câmera ficasse dentro do objeto.
-
----
-
-## 📁 Estrutura do Projeto
-
-```
-Assets/
-├── Materials/       # Materiais e cores customizados
-├── Scenes/          # Cena principal SampleScene
-├── Scripts/         # Scripts C# do projeto
-│   ├── MovimentacaoPC.cs
-│   ├── PortaInterativa.cs
-│   └── AssentoInterativo.cs
-├── VRTemplateAssets/ # Assets do template VR
-└── [Assets importados da Asset Store]
-```
 
 ---
 
