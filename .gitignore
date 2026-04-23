@@ -1,0 +1,31 @@
+# Pastas desnecessárias do Unity
+Library/
+Temp/
+Logs/
+Build/
+Builds/
+UserSettings/
+obj/
+
+# Arquivos desnecessários
+*.csproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+
+# Arquivos do sistema
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Cache
+.vs/
